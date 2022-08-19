@@ -2,7 +2,7 @@
 
 By Raghunandan
 
-## [Link to the rode clone](https://interier-design.netlify.app) 
+## [Link to the rode clone](https://clonerode.netlify.app) 
 
 ![Completed Website](/assets/completed%20image.jpg)
 
