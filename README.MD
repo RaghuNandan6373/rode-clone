@@ -9,4 +9,4 @@ By Raghunandan
 ## What I learned from this Project?
 
 - Learned how to develop webpage using tailwind css
-## This project took around 5 hours to complete.# shopify clone
+## This project took around 5 hours to complete.# rode clone
